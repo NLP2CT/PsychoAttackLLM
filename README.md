@@ -1,5 +1,5 @@
 # Priming Attacks
-## Abstract
+## Introduction
 
 Large language models (LLMs) have significantly influenced various industries but suffer from a critical flaw, the potential sensitivity of generating harmful content, which poses severe societal risks. We developed and tested novel attack strategies on popular LLMs to expose their vulnerabilities in generating inappropriate content. These strategies, inspired by psychological phenomena such as the **"Priming Effect"**, **"Safe Attention Shift"**, and **"Cognitive Dissonance"**, effectively attack the models' guarding mechanisms.
 
@@ -10,7 +10,7 @@ This study underscores the urgent need to reassess the use of generative models 
 ## Main Results
 Furthermore, we conducted benchmark tests on the latest large language models (LLMs) as of October 2024 using the **AdvBench** dataset, employing both closed-source and open-source models with the proposed strategy. As shown in the table below, the results demonstrate that the **Priming Attack** method achieved a 100% attack success rate (ASR) on open-source models and nearly 100% on closed-source models. This indicates that current LLMs remain highly susceptible to such attacks. 
 
-## Comparison of Close-Source and Open-Source Target Models
+## Comparison of Closed-Source and Open-Source Target Models
 
 The table below presents the Attack Success Rate (ASR) for models when attacked once (1 tried) and multiple times.
 
