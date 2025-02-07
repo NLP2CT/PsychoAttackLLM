@@ -8,7 +8,7 @@ Our experiments achieved an attack success rate (ASR) of 100% on various open-so
 This study underscores the urgent need to reassess the use of generative models in critical applications to mitigate potential adverse societal impacts.
 
 ## Main Results
-Furthermore, we conducted benchmark tests on the latest large language models (LLMs) as of October 2024 using the **AdvBench** dataset, employing both closed-source and open-source models with the proposed strategy. As shown in **Table: Newest**, the results demonstrate that the **Priming Attack** method achieved a 100% attack success rate (ASR) on open-source models and nearly 100% on closed-source models. This indicates that current LLMs remain highly susceptible to such attacks. 
+Furthermore, we conducted benchmark tests on the latest large language models (LLMs) as of October 2024 using the **AdvBench** dataset, employing both closed-source and open-source models with the proposed strategy. As shown in the table below, the results demonstrate that the **Priming Attack** method achieved a 100% attack success rate (ASR) on open-source models and nearly 100% on closed-source models. This indicates that current LLMs remain highly susceptible to such attacks. 
 
 ## Comparison of Close-Source and Open-Source Target Models
 
